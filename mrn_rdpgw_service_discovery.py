@@ -3,11 +3,11 @@
 # |            This source code is provided under the Apache 2.0 license      --
 # |  and is provided AS IS with no warranty or guarantee of fit for purpose.  --
 # |                See the project's LICENSE.md for details.                  --
-# |           Copyright (C) 2019 Refinitiv. All rights reserved.              --
+# |           Copyright (C) 2021 Refinitiv. All rights reserved.              --
 # |-----------------------------------------------------------------------------
 """
-Simple example of authenticating to EDP-GW and using the token to query VIPs
-from EDP service discovery, login to the Refinitiv Real-Time OtimizedService, and
+Simple example of authenticating to RDP-GW and using the token to query VIPs
+from RDP service discovery, login to the Refinitiv Real-Time Streaming Optimized Service, and
 retrieve Machine Readable News (MRN) content. A username and password and client id are used to
 retrieve this token.
 """
@@ -30,7 +30,7 @@ import zlib
 
 # Global Default Variables
 app_id = '256'
-auth_url = 'https://api.refinitiv.com:443/auth/oauth2/beta1/token'
+auth_url = 'https://api.refinitiv.com:443/auth/oauth2/v1/token'
 discovery_url = 'https://api.refinitiv.com/streaming/pricing/v1/'
 password = ''
 position = ''
