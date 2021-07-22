@@ -1,4 +1,4 @@
-###Real-time News Streaming Optimized for Wealth Solutions###
+## Real-time News Streaming Optimized for Wealth Solutions
 
 
 Simple example of authenticating to EDP-GW and using the token to query VIPs
