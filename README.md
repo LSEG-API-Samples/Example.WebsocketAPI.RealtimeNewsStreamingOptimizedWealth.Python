@@ -23,6 +23,7 @@
 
 RDP Market Price Service discovery example
 https://github.com/Refinitiv/websocket-api/tree/master/Applications/Examples/RDP/python
+
 Example of outputting Machine Readable News JSON data using Websockets 
 https://github.com/Refinitiv-API-Samples/Example.WebSocketAPI.Python.MRN/tree/ERT-in-Cloud
 
