@@ -19,7 +19,7 @@
 *python mrn_rdpgw_service_discovery.py --user YOURVALIDMACHINEID --password YOURVALIDPASSWORD --clientid YOURVALIDCLIENTID --region EMEA*
 
 
-This example builds upon:
+**This example builds upon:**
 
 RDP Market Price Service discovery example
 https://github.com/Refinitiv/websocket-api/tree/master/Applications/Examples/RDP/python
