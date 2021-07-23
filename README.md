@@ -1,9 +1,9 @@
 ## Real-time News Streaming Optimized for Wealth Solutions
 
 Last update: July 2021
-* Environment: Windows and Linux OS
-* Compiler: Python
-* Prerequisite: RDP Credentials with Real-Time News Streaming Optimized service (Username, Password, ClientId)
+Environment: Windows and Linux OS
+Compiler: Python
+Prerequisite: RDP Credentials with Real-Time News Streaming Optimized service (Username, Password, ClientId)
 
 This example demonstrates:
 1)	Authenticating to RDP Gateway
@@ -11,7 +11,7 @@ This example demonstrates:
 3)	Logging into Real-Time Streaming Optimized Service
 4)	Retrieving Real-Time News
 - - - -
-Command line usage:
+**Command line usage:**
 
 *python mrn_rdpgw_service_discovery.py --user YOURVALIDMACHINEID --password YOURVALIDPASSWORD --clientid YOURVALIDCLIENTID --mrn_ric MRN_STORY*
 
